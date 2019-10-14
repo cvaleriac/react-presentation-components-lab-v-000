@@ -1,6 +1,6 @@
 // Code SimpleComponent Here
 const state = "Happy"
- 
+
 class TextField extends Component {
   render() {
     return (
